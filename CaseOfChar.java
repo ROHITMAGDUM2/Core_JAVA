@@ -1,4 +1,4 @@
-package java_programs;
+
 
 /*...Any character is entered through the keyboard, write a program to determine whether the character entered is a capital letter, a small case letter, a digit or a special symbol.
 The following table shows the range of ASCII values for various characters.
@@ -9,7 +9,7 @@ a – z 97 – 122
 special symbols 0 - 47, 58 - 64, 91 - 96, 123 - 127
 
 ...*/
-
+package Java_Programs;
 import java.util.*;
 public class CaseOfChar 
 {
