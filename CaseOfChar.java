@@ -36,4 +36,15 @@ public class CaseOfChar
 		}
 		else
 			System.out.println("It is Special Symbol");
+	
 }}
+
+
+
+Output
+Enter Quantity And Price Of itam
+
+50
+200
+Your Total Amount is= 10000
+
