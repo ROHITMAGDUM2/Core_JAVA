@@ -22,8 +22,7 @@ public class Ex01_LocalDateAndCurrency {
 		Currency m = Currency.getInstance(Locale.JAPAN);
 
 		System.out.println(c.getActualMaximum(10));
-		
-		
+
 		double amount = 12345.67;
 
 		// Create a NumberFormat for the default locale (e.g., your computer's settings)
