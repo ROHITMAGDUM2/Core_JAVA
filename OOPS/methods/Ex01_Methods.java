@@ -25,12 +25,12 @@ public class Ex01_Methods {
 		System.out.println("Static anonumus block");
 	}
 
-	
-	 public class InnerClass{ // inner Class 
-		 	public void m3() {
-		 		System.out.println("In InnerClass M3 Method"); 
-	} }
-	
+	public class InnerClass { // inner Class
+		public void m3() {
+			System.out.println("In InnerClass M3 Method");
+		}
+	}
+
 	public Ex01_Methods() { // Constructor
 		System.out.println("I am in constructor");// 3rd
 	}
