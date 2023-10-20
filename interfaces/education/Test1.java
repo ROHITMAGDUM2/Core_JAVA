@@ -5,7 +5,6 @@ public class Test1 {
 	public static void main(String[] args) {
 
 		School sc;
-
 		sc = new Student();
 		sc.inFo();
 

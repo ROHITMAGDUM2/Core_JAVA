@@ -4,7 +4,6 @@ WAP dividing a number by zero. The code is enclosed into try block and a catch h
 package interfaces.chakedOrUnchaked;
 
 public class DevidedByZero {
-
 	public static void main(String[] args) {
 
 		int a = 5;

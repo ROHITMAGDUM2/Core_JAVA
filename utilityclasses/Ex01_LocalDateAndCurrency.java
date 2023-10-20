@@ -9,7 +9,7 @@ import java.util.Locale;
 public class Ex01_LocalDateAndCurrency {
 
 	public static void main(String[] args) {
-		
+
 		Date d = new Date();
 
 		System.out.println(d);

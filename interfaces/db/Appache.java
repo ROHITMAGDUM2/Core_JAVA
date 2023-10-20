@@ -1,6 +1,6 @@
 package interfaces.db;
 
-public class Appache implements Database{
+public class Appache implements Database {
 
 	@Override
 	public void connection() {
