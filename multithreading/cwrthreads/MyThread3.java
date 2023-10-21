@@ -9,7 +9,4 @@ public class MyThread3 implements Callable<Integer> {
 		return 100;
 	}
 
-
-
-	
 }
