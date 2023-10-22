@@ -16,8 +16,8 @@ public class Test01 {
 
 		c2.a = 200;
 		System.out.println(c2.a);
-		
-		//calling m1 method
+
+		// calling m1 method
 		c1.m1();
 
 	}
