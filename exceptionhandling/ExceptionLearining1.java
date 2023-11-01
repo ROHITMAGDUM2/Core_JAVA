@@ -10,10 +10,6 @@ package exceptionhandling;
 //In Java, an exception is an event that disrupts the normal flow of the program. It is an object which is thrown at runtime.
 
 
-
-
-
-
 public class ExceptionLearining1 {
 
 }
