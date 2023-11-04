@@ -2,7 +2,7 @@ package assignments;
 
 public class AbsuluteValueEg {
 	public static void main(String[] args) {
-		
+
 		System.out.println("Before Method");
 		m1();
 		System.out.println("After Method");
